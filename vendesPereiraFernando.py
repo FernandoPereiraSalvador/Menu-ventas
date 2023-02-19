@@ -1,6 +1,6 @@
 # Fernando José Pereira Salvador
-
-# Inicializamos los vectores y variables
+# 1DAM Programación
+# Inicializamos los vectores y variables necesarios
 opcion = 0
 nombres = []
 precios = []
